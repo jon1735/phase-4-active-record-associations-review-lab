@@ -1,0 +1,2 @@
+class AddTaxiAndPassengerToRide < ApplicationRecord
+end
